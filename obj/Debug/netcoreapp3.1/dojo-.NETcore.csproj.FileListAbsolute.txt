@@ -1,0 +1,5 @@
+D:\2.DESARROLLO DE APPS EMP\dojo-.NETcore\obj\Debug\netcoreapp3.1\dojo-.NETcore.csprojAssemblyReference.cache
+D:\2.DESARROLLO DE APPS EMP\dojo-.NETcore\obj\Debug\netcoreapp3.1\dojo-.NETcore.AssemblyInfoInputs.cache
+D:\2.DESARROLLO DE APPS EMP\dojo-.NETcore\obj\Debug\netcoreapp3.1\dojo-.NETcore.AssemblyInfo.cs
+D:\2.DESARROLLO DE APPS EMP\dojo-.NETcore\obj\Debug\netcoreapp3.1\dojo-.NETcore.csproj.CoreCompileInputs.cache
+D:\2.DESARROLLO DE APPS EMP\dojo-.NETcore\obj\Debug\netcoreapp3.1\dojo-.NETcore.MvcApplicationPartsAssemblyInfo.cache
