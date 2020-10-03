@@ -1,6 +1,6 @@
 using System;
 
-namespace DojoE.Modelo
+namespace dojo_.NETcore.Modelo
 {
     public class Usuario
     {

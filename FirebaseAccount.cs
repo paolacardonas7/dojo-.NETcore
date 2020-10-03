@@ -1,11 +1,11 @@
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using DojoE.Modelo;
+using dojo_.NETcore.Modelo;
 using Google.Cloud.Firestore;
 
 
-namespace DojoNetCore
+namespace dojo_.NETcore
 {
 
     public class FirebaseAccount

@@ -1,11 +1,11 @@
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
-using DojoE.Modelo;
-using DojoNetCore;
+using dojo_.NETcore.Modelo;
+using dojo_.NETcore;
 using Microsoft.AspNetCore.Mvc;
 
-namespace DojoE.Controllers
+namespace dojo_.NETcore.Controllers
 {
     [ApiController]
     [Route("[controller]")]
